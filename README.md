@@ -1,5 +1,5 @@
 # MMM-CAH-RSS
-Display a Calvin and Hobbes Comic on your MagicMirror.
+Display a Calvin and Hobbes Comic on your MagicMirror.  Derived from a modified MMM-RSS-FEED Module.
 
 ## Installing the module
 
@@ -16,3 +16,4 @@ modules: [
 		 },
 ]
 ````
+The RSS URL is hardcoded MMM-CAH-FEED.js, so no additional configuration required!
