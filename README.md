@@ -12,7 +12,7 @@ To use this module, add it to the modules array in the `config/config.js` file:
 modules: [
 		 {
 			module: 'MMM-CAH-RSS',
-			position: 'top_bar',
+			position: 'top_bar'
 		 },
 ]
 ````
