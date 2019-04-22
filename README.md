@@ -16,4 +16,4 @@ modules: [
 		 },
 ]
 ````
-The RSS URL is hardcoded MMM-CAH-FEED.js, so no additional configuration required!
+The RSS URL is defaulted in MMM-CAH-FEED.js, so no additional configuration required.  The Update Interval is set to 24 hours.
