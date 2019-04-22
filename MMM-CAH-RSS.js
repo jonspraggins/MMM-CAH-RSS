@@ -1,7 +1,7 @@
 Module.register("MMM-CAH-RSS",{
 		// define defaults.
 	defaults: {
-		url: ""
+		url: "",
 		updateInterval: 86400000,
 		fadeSpeed: 4000
 	},
