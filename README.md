@@ -11,9 +11,9 @@ To use this module, add it to the modules array in the `config/config.js` file:
 ````javascript
 modules: [
 		 {
-			module: 'MMM-RSS-FEED',
-			position: 'top_bar',
+			module: 'MMM-CAH-RSS',
+			position: 'top_bar'
 		 },
 ]
 ````
-The RSS URL is hardcoded MMM-CAH-FEED.js, so no additional configuration required!
+The RSS URL is defaulted in MMM-CAH-FEED.js, so no additional configuration required.  The Update Interval is set to 24 hours.
