@@ -1,3 +1,10 @@
+/* global Log, Module, jquery, feednami, moment */
+/* Magic Mirror
+ * Module: Calvin and Hobbes RSS Feed
+ *
+ * By Jon Spraggins http://jonspraggins.com
+ * MIT Licensed.
+ */
 Module.register("MMM-CAH-RSS",{
 		// define defaults.
 	defaults: {
