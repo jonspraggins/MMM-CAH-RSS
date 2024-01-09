@@ -14,7 +14,7 @@ Module.register("MMM-CAH-RSS",{
 	},
 		// Define required scripts.
 	getScripts: function() {
-		return ["modules/MMM-CAH-RSS/js/jquery-3.1.1.min.js","modules/MMM-CAH-RSS/js/feednami.js", "moment.js"];
+		return ["modules/MMM-CAH-RSS/js/jquery-3.5.0.min.js","modules/MMM-CAH-RSS/js/feednami.js", "moment.js"];
 	},
 		getStyles: function() {
 		return ["modules/MMM-CAH-RSS/css/style.css"];
